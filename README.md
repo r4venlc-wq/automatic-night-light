@@ -27,4 +27,5 @@ The LDR measures the surrounding light level.
 
 ## Circuit
 
-![Automatic Night Light](YOUR_IMAGE_FILENAME_HERE)
+![Automatic Night Light](automatic%20night%20light)
+
